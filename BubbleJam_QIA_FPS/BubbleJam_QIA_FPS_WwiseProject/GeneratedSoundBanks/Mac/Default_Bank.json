@@ -1,0 +1,67 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1239515581",
+    "Type": "User",
+    "GUID": "{58AE4A6E-0411-417B-9A41-398D0744AEBE}",
+    "Language": "SFX",
+    "Hash": "{85FFCB1D-27AA-D567-A9A6-C148450EC35D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Default_Bank",
+    "ShortName": "Default_Bank",
+    "Path": "Default_Bank.bnk",
+    "Media": [
+     {
+      "Id": "308441352",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Quack_in_Action_Demo.wav",
+      "CachePath": "42/{42DB2667-8473-9C79-6DAD-9E1F36543334}.wem"
+     },
+     {
+      "Id": "441594637",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "530580-Cartoon_Bubble_Long_Eruption.wav",
+      "CachePath": "28/{28261AE2-1278-743B-5172-40518E40DCEE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3381697299",
+      "Name": "Play_Bubbles",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Bubbles",
+      "GUID": "{4982398C-9D77-4418-9847-AD34B1D34371}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.5833334",
+      "DurationMax": "1.5833334",
+      "MediaRefs": [
+       {
+        "Id": "441594637"
+       }
+      ]
+     },
+     {
+      "Id": "1600834470",
+      "Name": "Play_Quack_in_Action_Demo",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Quack_in_Action_Demo",
+      "GUID": "{744285CC-A78C-4CC1-8E14-3EFADBCA5451}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "308441352"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4F5CAE02-AF8C-C855-7C48-00019B4BED38}"
+ }
+}
