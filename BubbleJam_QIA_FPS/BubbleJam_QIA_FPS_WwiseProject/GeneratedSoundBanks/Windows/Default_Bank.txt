@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1600834470	Play_Quack_in_Action_Demo			\Default Work Unit\Play_Quack_in_Action_Demo	
+	3381697299	Play_Bubbles			\Default Work Unit\Play_Bubbles	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	308441352	Quack_in_Action_Demo	Y:\Documents\GitHub\BubbleJam_QuackInAction\BubbleJam_QIA_FPS\BubbleJam_QIA_FPS_WwiseProject\.cache\42\{42DB2667-8473-9C79-6DAD-9E1F36543334}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Quack_in_Action_Demo		12359348
+	441594637	530580-Cartoon_Bubble_Long_Eruption	Y:\Documents\GitHub\BubbleJam_QuackInAction\BubbleJam_QIA_FPS\BubbleJam_QIA_FPS_WwiseProject\.cache\28\{28261AE2-1278-743B-5172-40518E40DCEE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\530580-Cartoon_Bubble_Long_Eruption		304096
+
